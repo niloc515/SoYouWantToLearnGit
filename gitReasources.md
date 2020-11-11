@@ -11,6 +11,7 @@ Introduction to Some Concepts
 -----------------------------
 
 ### **Git, why should I care?**
+[![Git logo][gitLogo]](https://git-scm.com)
 
 Have you ever been writing a paper and ended up with a bunch of documents like *EssayDraft.dox*, *EssaySecondDraft.dox* *EssayFinal.dox*, *EssayFinalForReal.dox*, and as the caffeine wears off and 11:59 approaches *Essayasdklf;ajk;ekjahaskjd.dox*. 
 
@@ -25,6 +26,7 @@ Git is a piece of [version control software](https://www.atlassian.com/git/tutor
 Git even allows you to experiment with new versions of your files with out affecting your "good copy" through **Branches**. But I'll let you learn more about that on your own later 😉
 
 ### **Cool! so Github is like Git right?**
+[![Github logo][githubMark]](https://github.com)
 
 Github is a website made specifically for storing the packages of commits and branches that Git makes called **Repositories** or **Repos** for short. You can do some git things on github (like making new branches and some basic file editing) but github should be treated more like a file storage server. Working with Git and Github does have some cool advantages, such as [Github pages](https://pages.github.com) and others that I would whole heatedly encourage you to look at once you are more familiar with git. Remember, its entirely separate from git and you can use git just fine on your personal computer without it.
 
@@ -54,3 +56,6 @@ This is a lot of information, Ain't nobody got time for that!
 
 I completely understand, Git has a pretty steep learning curve and trying to take this in all at once can be more than a little overwhelming. That is why there is plenty of cheatsheets out there for [quick reference](https://www.git-tower.com/blog/git-cheat-sheet/) from [github](https://education.github.com/git-cheat-sheet-education.pdf), [atlasian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet), and git-tower and for the most part, thats all you really need when using git! 
 If you want to go deep into git, [Here is the official docs](https://git-scm.com/docs)
+
+[gitLogo]: https://git-scm.com/images/logo@2x.png "Git Logo"
+[githubMark]: ./images/GitHub-Mark-120px-plus.png "Github logo"
