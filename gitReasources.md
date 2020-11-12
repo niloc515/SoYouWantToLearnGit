@@ -43,7 +43,9 @@ Courses
 - **[Udacity Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)**
     This Udacity course is very good at touching on git and github and even has good opportunity and instructions on getting some hands on experience! This one is my personal favourite and best part is that it is free!
 
-- **[FreeCodeCamp Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)**
+### Videos
+
+- **[FreeCodeCamp Git and GitHub for Beginners - Crash Course[1:08:29]](https://www.youtube.com/watch?v=RGOj5yH7evk)**
      An all round overview of  Git and github, a great whirlwind introduction to everything Git and Github covering everything from making an account, to setting up SSH keys and forking other repositories. I would use this mainly to supplement other courses or as a refresher once you have already use Git/Github a bit
 
 - **[Fireship Git It? How to use Git and Github [12:18]](https://www.youtube.com/watch?v=HkdAHXoRtos&list=WL&index=28)** 
