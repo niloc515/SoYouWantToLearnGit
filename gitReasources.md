@@ -1,7 +1,7 @@
 So You Want to Learn Git
 ========================
 
-Great! You've come to the right place! Here I will post a bunch of useful git/github reasources and I encourage anyone who wants to contribute to do the same!
+Great! You've come to the right place! Here I will post a bunch of useful git/github resources and I encourage anyone who wants to contribute to do the same!
 
 Lets start off by going over a couple of things real quick.
 
@@ -41,10 +41,10 @@ Courses
     The first chapter of the DataCamp git course provides an interactive look at all the things that makes Git a great tool to use. And if you want to do more of the DataCamp course, the [Github student pack](https://education.github.com/pack) provides you with 3 months of DataCamp access for free!
 
 - **[Udacity Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)**
-    This Udacity course is very good at touching on git and github and even has good oppurtunity and instructions on gettings some hands on experience! This one is my personal favourite and best part is that it is free!
+    This Udacity course is very good at touching on git and github and even has good opportunity and instructions on getting some hands on experience! This one is my personal favourite and best part is that it is free!
 
 - **[FreeCodeCamp Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)**
-     An all round overview of  Git and github, a great whirlwind introduction to everything Git and Github covering everything from making an account, to setting up SSH keys and forking other repositories. I would use this mainly to supliment other courses or as a refresher once you hace already use Git/Github a bit
+     An all round overview of  Git and github, a great whirlwind introduction to everything Git and Github covering everything from making an account, to setting up SSH keys and forking other repositories. I would use this mainly to supplement other courses or as a refresher once you have already use Git/Github a bit
 
 - **[Fireship Git It? How to use Git and Github [12:18]](https://www.youtube.com/watch?v=HkdAHXoRtos&list=WL&index=28)** 
     Not a full course, but a good overview of Git and Github for those looking to use specifically Visual Studio Code as their main IDE.
@@ -54,7 +54,7 @@ Courses
 This is a lot of information, Ain't nobody got time for that!
 ------------------------------------------------------------
 
-I completely understand, Git has a pretty steep learning curve and trying to take this in all at once can be more than a little overwhelming. That is why there is plenty of cheatsheets out there for [quick reference](https://www.git-tower.com/blog/git-cheat-sheet/) from [github](https://education.github.com/git-cheat-sheet-education.pdf), [atlasian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet), and git-tower and for the most part, thats all you really need when using git! 
+I completely understand, Git has a pretty steep learning curve and trying to take this in all at once can be more than a little overwhelming. That is why there is plenty of cheat sheets out there for [quick reference](https://www.git-tower.com/blog/git-cheat-sheet/) from [github](https://education.github.com/git-cheat-sheet-education.pdf), [Atlasian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet), and git-tower and for the most part, thats all you really need when using git! 
 If you want to go deep into git, [Here is the official docs](https://git-scm.com/docs)
 
 [gitLogo]: https://git-scm.com/images/logo@2x.png "Git Logo"
