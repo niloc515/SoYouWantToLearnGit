@@ -59,9 +59,6 @@ This is a lot of information, Ain't nobody got time for that!
 I completely understand, Git has a pretty steep learning curve and trying to take this in all at once can be more than a little overwhelming. That is why there is plenty of cheat sheets out there for quick reference from [github](https://education.github.com/git-cheat-sheet-education.pdf), [Atlasian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet), and [git-tower](https://www.git-tower.com/blog/git-cheat-sheet/) and for the most part, thats all you really need when using git! 
 If you want to go deep into git, [Here is the official docs](https://git-scm.com/docs)
 
-[gitLogo]: https://git-scm.com/images/logo@2x.png "Git Logo"
-[githubMark]: ./images/GitHub-Mark-120px-plus.png "Github logo"
-
 How about some quick references right here?
 -------------------------------------------
 
@@ -84,3 +81,8 @@ Here you go!
 |Set a remote for your local repo                     |`git remote add [NAME FOR REMOTE] [ADDRESS OF REMOTE]`|`git remote add my_awesome_new_remote_repo https://github.com/user/repo.git`|
 |Keep your local repo in sync with the remote         |`git pull`                                            |`git pull`|
 |Mirror your commits to the remote                    |`git push [NAME OF REMOTE] [NAME OF BRANCH]`          |`git push origin main`|
+
+
+
+[gitLogo]: https://git-scm.com/images/logo@2x.png "Git Logo"
+[githubMark]: ./images/GitHub-Mark-120px-plus.png "Github logo"
