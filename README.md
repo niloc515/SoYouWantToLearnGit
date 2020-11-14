@@ -56,7 +56,7 @@ Courses
 This is a lot of information, Ain't nobody got time for that!
 ------------------------------------------------------------
 
-I completely understand, Git has a pretty steep learning curve and trying to take this in all at once can be more than a little overwhelming. That is why there is plenty of cheat sheets out there for [quick reference](https://www.git-tower.com/blog/git-cheat-sheet/) from [github](https://education.github.com/git-cheat-sheet-education.pdf), [Atlasian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet), and git-tower and for the most part, thats all you really need when using git! 
+I completely understand, Git has a pretty steep learning curve and trying to take this in all at once can be more than a little overwhelming. That is why there is plenty of cheat sheets out there for quick reference from [github](https://education.github.com/git-cheat-sheet-education.pdf), [Atlasian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet), and [git-tower](https://www.git-tower.com/blog/git-cheat-sheet/) and for the most part, thats all you really need when using git! 
 If you want to go deep into git, [Here is the official docs](https://git-scm.com/docs)
 
 [gitLogo]: https://git-scm.com/images/logo@2x.png "Git Logo"
