@@ -83,6 +83,13 @@ Here you go!
 |Mirror your commits to the remote                    |`git push [NAME OF REMOTE] [NAME OF BRANCH]`          |`git push origin main`                                                       |
 
 
+Branching! It's hard!
+---------------------
+[![XKCD 1296: Git Commit][xkcdGitCommit]](https://xkcd.com/1296/)
+
+
+
 
 [gitLogo]: https://git-scm.com/images/logo@2x.png "Git Logo"
 [githubMark]: ./images/GitHub-Mark-120px-plus.png "Github logo"
+[xkcdGitCommit]: https://imgs.xkcd.com/comics/git_commit.png "https://imgs.xkcd.com/comics/git_commit.png"
