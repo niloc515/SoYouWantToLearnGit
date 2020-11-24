@@ -87,7 +87,14 @@ Branching! It's hard!
 ---------------------
 [![XKCD 1296: Git Commit][xkcdGitCommit]](https://xkcd.com/1296/)
 
+Ill say! The ability of git to branch is super fantastic and useful in theory but in practice it can be hard to keep things straight. 
+While git itself more or less lets you do what you want, having some structure that you or your group can all adhere to.
 
+The most elegant branch managing Strategy I've used is the git flow strategy
+
+### Go with the flow!
+
+Sorry, it was right there. But anyways, 
 
 
 [gitLogo]: https://git-scm.com/images/logo@2x.png "Git Logo"
