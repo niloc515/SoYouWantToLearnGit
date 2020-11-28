@@ -87,15 +87,29 @@ Branching! It's hard!
 ---------------------
 [![XKCD 1296: Git Commit][xkcdGitCommit]](https://xkcd.com/1296/)
 
-Ill say! The ability of git to branch is super fantastic and useful in theory but in practice it can be hard to keep things straight. 
-While git itself more or less lets you do what you want, having some structure that you or your group can all adhere to.
+Ill say! The ability of git to branch is super fantastic and useful in theory but in practice 
+it can be hard to keep things straight. 
+While git itself more or less lets you do what you want, having some structure that you or your group can all adhere to. 
+This will save you a lot of trouble down the line and help you look back on old code without having to figure out 
 
-The most elegant branch managing Strategy I've used is the git flow strategy
+The most elegant branch managing Strategy I've used is the git-flow strategy.
 
 ### Go with the flow!
 
-Sorry, it was right there. But anyways, 
+Sorry, it was right there. But anyways, git-flow is (in my humble opinion) the simplest and best way to 
+create and manage your projects branches. The principle of git-flow is described in 
+[this](http://scottchacon.com/2011/08/31/github-flow.html) blog post by Scott Chacon and I would definitely recommend you read
+it all, but in order to just get the gist of it, here are the essentials.
 
+- Anything in the master branch is deployable
+- To work on something new, create a descriptively named branch off of master (ie: new-oauth2-scopes)
+- Commit to that branch locally and regularly push your work to the same named branch on the server
+- When you need feedback or help, or you think the branch is ready for merging, open a pull request
+- After someone else has reviewed and signed off on the feature, you can merge it into master
+- Once it is merged and pushed to ‘master’, you can and should deploy immediately
+
+Thats it! make sure your master branch is your gold standard and create everything else in other branches 
+to be merged into master once the new feature is completed and reviewed.
 
 [gitLogo]: https://git-scm.com/images/logo@2x.png "Git Logo"
 [githubMark]: ./images/GitHub-Mark-120px-plus.png "Github logo"
